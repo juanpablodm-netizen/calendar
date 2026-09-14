@@ -3,7 +3,6 @@
   "private": true,
   "version": "1.0.0",
   "main": "main.js",
-  "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
