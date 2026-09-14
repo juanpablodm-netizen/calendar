@@ -28,7 +28,4 @@ jobs:
       - uses: actions/upload-artifact@v4
         with:
           name: Instalador-Windows
-          path: |
-            dist/*.exe
-            release/*.exe
-            dist-electron/*.exe
+          path: dist/*.exe
