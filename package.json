@@ -17,7 +17,9 @@
       "main.cjs"
     ],
     "win": {
-      "target": ["nsis"]
+      "target": [
+        "nsis"
+      ]
     }
   },
   "devDependencies": {
